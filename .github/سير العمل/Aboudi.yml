@@ -1,7 +1,7 @@
 # هذا هو سير عمل أساسي لمساعدتك على البدء في الإجراءات
 
 name: CI
-name: aboudiRDP
+الاسم : ABOUDRDP
 
 on: workflow_dispatch
 
